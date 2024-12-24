@@ -18,7 +18,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/dhpzh/patient-satisfaction.git
+git clone https://github.com/dhpzhi/patient-satisfaction.git
 ```
 
 2. 打开 index.html 或使用本地服务器运行
@@ -26,7 +26,7 @@ git clone https://github.com/dhpzh/patient-satisfaction.git
 ## 在线访问
 
 系统已部署在 GitHub Pages，可通过以下地址访问：
-[患者就医满意度管理平台](https://dhpzh.github.io/patient-satisfaction/)
+[患者就医满意度管理平台](https://dhpzhi.github.io/patient-satisfaction/)
 
 ## 部署步骤
 
@@ -36,4 +36,4 @@ git clone https://github.com/dhpzh/patient-satisfaction.git
    - 进入仓库设置
    - 找到 Pages 选项
    - 选择 main 分支
-   - 保存设置 #patient-satisfaction
+   - 保存设置
