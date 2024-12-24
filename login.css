@@ -1,0 +1,79 @@
+.login-page {
+    background-color: #f5f6fa;
+}
+
+.login-container {
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.login-image {
+    background: linear-gradient(135deg, #4B7BE5, #50C878);
+    padding: 40px;
+    color: white;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hospital-icon {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 20px;
+}
+
+.login-image h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.login-image p {
+    opacity: 0.9;
+    font-size: 14px;
+}
+
+.login-form {
+    padding: 40px;
+}
+
+.login-form h3 {
+    color: #333;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.input-group-text {
+    background-color: white;
+    border-right: none;
+}
+
+.form-control {
+    border-left: none;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #ced4da;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #4B7BE5, #50C878);
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #4371d4, #45b068);
+}
+
+.form-check-input:checked {
+    background-color: #4B7BE5;
+    border-color: #4B7BE5;
+} 
